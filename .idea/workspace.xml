@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0abdf12-8442-4563-9136-a12b88f601c8" name="Changes" comment="" />
+    <list default="true" id="f0abdf12-8442-4563-9136-a12b88f601c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/T01_Selenium_Locators/Q4_Tagname.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/T01_Selenium_Locators/Q4_Tagname.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="akif" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -42,7 +50,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q3_Class">
+  <component name="RunManager" selected="JUnit.Q4_Tagname.test01">
     <configuration name="Q1_Id" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T01_Selenium_Locators.Q1_Id" />
       <module name="TutorialRepeating" />
@@ -82,8 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q4_Tagname.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TutorialRepeating" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T01_Selenium_Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="T01_Selenium_Locators" />
+      <option name="MAIN_CLASS_NAME" value="T01_Selenium_Locators.Q4_Tagname" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Q4_Tagname.test01" />
         <item itemvalue="Application.Q3_Class" />
         <item itemvalue="Application.Q2_Name" />
         <item itemvalue="Application.Q1_Id" />
