@@ -25,7 +25,7 @@ public class Q2_Name {
         String srcBxText=srcBx.getText();
         System.out.println(srcBxText);
         // send keys to search box to see what is gonna happen there
-        srcBx.sendKeys("Istanbul");
+        srcBx.sendKeys("Konya");
         //Wait two seconds to have good result
         Thread.sleep(2000);
         driver.quit();
