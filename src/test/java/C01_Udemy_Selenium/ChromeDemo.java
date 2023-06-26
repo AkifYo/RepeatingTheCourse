@@ -1,4 +1,4 @@
-package Udemy_Selenium;
+package C01_Udemy_Selenium;
 
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;

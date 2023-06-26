@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0abdf12-8442-4563-9136-a12b88f601c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/T01_Selenium_Locators/Q1_Id.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/T01_Selenium_Locators/Q2_Name.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/T01_Selenium_Locators/Q3_Class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/T01_Selenium_Locators/Q4_Tagname.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C02_Locating/L04LocatingByCss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C02_Locating/L04LocatingByCss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Udemy_Selenium/ChromeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C01_Udemy_Selenium/ChromeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Udemy_Selenium/ChromeDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,72 +46,91 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ChromeDemo.firstexample">
-    <configuration name="ChromeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Udemy_Selenium.ChromeDemo" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="C02_Locating" />
+      <recent name="Udemy_Selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.L03LocatingByLinkText.firstexample">
+    <configuration name="EdgeDemo.firstExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Udemy_Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Udemy_Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1_Id" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Udemy_Selenium.Q1_Id" />
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Udemy_Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q2_Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Udemy_Selenium.Q2_Name" />
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Udemy_Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q3_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Udemy_Selenium.Q3_Class" />
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Udemy_Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ChromeDemo.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Udemy_Selenium.*" />
+          <option name="PATTERN" value="C01_Udemy_Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Udemy_Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Udemy_Selenium.ChromeDemo" />
+      <option name="MAIN_CLASS_NAME" value="C01_Udemy_Selenium.EdgeDemo" />
+      <option name="METHOD_NAME" value="firstExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirefoxDemo.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C01_Udemy_Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Udemy_Selenium" />
+      <option name="MAIN_CLASS_NAME" value="C01_Udemy_Selenium.FirefoxDemo" />
+      <option name="METHOD_NAME" value="firstexample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L01ChromeDemoById.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C02_Locating.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C02_Locating" />
+      <option name="MAIN_CLASS_NAME" value="C02_Locating.L01ChromeDemoById" />
+      <option name="METHOD_NAME" value="firstexample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L02LocatingByName.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C02_Locating.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C02_Locating" />
+      <option name="MAIN_CLASS_NAME" value="C02_Locating.L02LocatingByName" />
+      <option name="METHOD_NAME" value="firstexample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L03LocatingByLinkText.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C02_Locating.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C02_Locating" />
+      <option name="MAIN_CLASS_NAME" value="C02_Locating.L03LocatingByLinkText" />
       <option name="METHOD_NAME" value="firstexample" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -122,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ChromeDemo.firstexample" />
-        <item itemvalue="Application.ChromeDemo" />
-        <item itemvalue="Application.Q3_Class" />
-        <item itemvalue="Application.Q2_Name" />
-        <item itemvalue="Application.Q1_Id" />
+        <item itemvalue="JUnit.L03LocatingByLinkText.firstexample" />
+        <item itemvalue="JUnit.L02LocatingByName.firstexample" />
+        <item itemvalue="JUnit.L01ChromeDemoById.firstexample" />
+        <item itemvalue="JUnit.EdgeDemo.firstExample" />
+        <item itemvalue="JUnit.FirefoxDemo.firstexample" />
       </list>
     </recent_temporary>
   </component>
