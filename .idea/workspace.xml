@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0abdf12-8442-4563-9136-a12b88f601c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L06ClickingButton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C02_Locating/L04LocatingByCss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C02_Locating/L04LocatingByCss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C02_Locating/L04LocatingByXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C02_Locating/L04LocatingByXpath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L07SendingData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L07SendingData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="C03_Section3" />
@@ -57,72 +53,8 @@
       <recent name="Udemy_Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.L07SendingData.test">
-    <configuration name="L01ChromeDemoById.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C02_Locating.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C02_Locating" />
-      <option name="MAIN_CLASS_NAME" value="C02_Locating.L01ChromeDemoById" />
-      <option name="METHOD_NAME" value="firstexample" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L02LocatingByName.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C02_Locating.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C02_Locating" />
-      <option name="MAIN_CLASS_NAME" value="C02_Locating.L02LocatingByName" />
-      <option name="METHOD_NAME" value="firstexample" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L03LocatingByLinkText.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C02_Locating.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C02_Locating" />
-      <option name="MAIN_CLASS_NAME" value="C02_Locating.L03LocatingByLinkText" />
-      <option name="METHOD_NAME" value="firstexample" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L04LocatingByCss.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C02_Locating.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C02_Locating" />
-      <option name="MAIN_CLASS_NAME" value="C02_Locating.L04LocatingByCss" />
-      <option name="METHOD_NAME" value="firstexample" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L07SendingData.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.L14_Assertion_2.test">
+    <configuration name="L10DropDownsMenu.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Udemy_Selenium" />
       <extension name="coverage">
         <pattern>
@@ -131,7 +63,71 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="C03_Section3" />
-      <option name="MAIN_CLASS_NAME" value="C03_Section3.L07SendingData" />
+      <option name="MAIN_CLASS_NAME" value="C03_Section3.L10DropDownsMenu" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L11Alerts.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C03_Section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C03_Section3" />
+      <option name="MAIN_CLASS_NAME" value="C03_Section3.L11Alerts" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L12RadioButtons.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C03_Section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C03_Section3" />
+      <option name="MAIN_CLASS_NAME" value="C03_Section3.L12RadioButtons" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L13_Assertion_1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C03_Section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C03_Section3" />
+      <option name="MAIN_CLASS_NAME" value="C03_Section3.L13_Assertion_1" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L14_Assertion_2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C03_Section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C03_Section3" />
+      <option name="MAIN_CLASS_NAME" value="C03_Section3.L14_Assertion_2" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -140,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.L07SendingData.test" />
-        <item itemvalue="JUnit.L04LocatingByCss.firstexample" />
-        <item itemvalue="JUnit.L03LocatingByLinkText.firstexample" />
-        <item itemvalue="JUnit.L02LocatingByName.firstexample" />
-        <item itemvalue="JUnit.L01ChromeDemoById.firstexample" />
+        <item itemvalue="JUnit.L14_Assertion_2.test" />
+        <item itemvalue="JUnit.L13_Assertion_1.test" />
+        <item itemvalue="JUnit.L12RadioButtons.test" />
+        <item itemvalue="JUnit.L11Alerts.test" />
+        <item itemvalue="JUnit.L10DropDownsMenu.test" />
       </list>
     </recent_temporary>
   </component>
