@@ -29,9 +29,5 @@ public class L14_Assertion_2 {
     Thread.sleep(2000);
     System.out.println(prodcut.getText());
     Assert.assertEquals("$26.12",prodcut.getText());
-
-
-
-
 }
 }

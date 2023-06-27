@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0abdf12-8442-4563-9136-a12b88f601c8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L14_Assertion_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L14_Assertion_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,39 +54,7 @@
       <recent name="Udemy_Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.L14_Assertion_2.test">
-    <configuration name="L10DropDownsMenu.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C03_Section3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C03_Section3" />
-      <option name="MAIN_CLASS_NAME" value="C03_Section3.L10DropDownsMenu" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L11Alerts.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C03_Section3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C03_Section3" />
-      <option name="MAIN_CLASS_NAME" value="C03_Section3.L11Alerts" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.L17_HiddenElement.test">
     <configuration name="L12RadioButtons.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Udemy_Selenium" />
       <extension name="coverage">
@@ -134,13 +103,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="L16_Popup.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C03_Section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C03_Section3" />
+      <option name="MAIN_CLASS_NAME" value="C03_Section3.L16_Popup" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L17_HiddenElement.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C03_Section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C03_Section3" />
+      <option name="MAIN_CLASS_NAME" value="C03_Section3.L17_HiddenElement" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.L17_HiddenElement.test" />
+        <item itemvalue="JUnit.L16_Popup.test" />
         <item itemvalue="JUnit.L14_Assertion_2.test" />
         <item itemvalue="JUnit.L13_Assertion_1.test" />
         <item itemvalue="JUnit.L12RadioButtons.test" />
-        <item itemvalue="JUnit.L11Alerts.test" />
-        <item itemvalue="JUnit.L10DropDownsMenu.test" />
       </list>
     </recent_temporary>
   </component>
