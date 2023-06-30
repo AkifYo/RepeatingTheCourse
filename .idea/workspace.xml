@@ -6,6 +6,32 @@
   <component name="ChangeListManager">
     <list default="true" id="f0abdf12-8442-4563-9136-a12b88f601c8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C01_Udemy_Selenium/ChromeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C01_Udemy_Selenium/ChromeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C01_Udemy_Selenium/EdgeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C01_Udemy_Selenium/EdgeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C01_Udemy_Selenium/FirefoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C01_Udemy_Selenium/FirefoxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C02_Locating/L01ChromeDemoById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C02_Locating/L01ChromeDemoById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C02_Locating/L02LocatingByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C02_Locating/L02LocatingByName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C02_Locating/L03LocatingByLinkText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C02_Locating/L03LocatingByLinkText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C02_Locating/L04LocatingByCss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C02_Locating/L04LocatingByCss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C02_Locating/L04LocatingByXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C02_Locating/L04LocatingByXpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L06ClickingButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L06ClickingButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L07SendingData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L07SendingData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L08CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L08CheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L09isEnabled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L09isEnabled.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L10DropDownsMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L10DropDownsMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L11Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L11Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L12RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L12RadioButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L13_Assertion_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L13_Assertion_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L14_Assertion_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L14_Assertion_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L15_Accordion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L15_Accordion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L16_Popup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L16_Popup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C03_Section3/L17_HiddenElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_Section3/L17_HiddenElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C05_Travel_Website/L01_Travel_WebsitePt1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C05_Travel_Website/L01_Travel_WebsitePt1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C05_Travel_Website/L02_Travel_WebsitePt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C05_Travel_Website/L02_Travel_WebsitePt2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C05_Travel_Website/L03_iFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C05_Travel_Website/L03_iFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C05_Travel_Website/L04_Browser_Tab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C05_Travel_Website/L04_Browser_Tab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C05_Travel_Website/L05_JavaScriptExecuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C05_Travel_Website/L05_JavaScriptExecuter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +73,10 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo X270\IdeaProjects\TutorialRepeating\src" />
+      <recent name="C:\Users\Lenovo X270\IdeaProjects\TutorialRepeating\target" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="C05_Travel_Website" />
       <recent name="C04_Java" />
@@ -55,23 +85,7 @@
       <recent name="Udemy_Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.L05_JavaScriptExecuter.firstexample">
-    <configuration name="L01_Travel_WebsitePt1.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C05_Travel_Website.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C05_Travel_Website" />
-      <option name="MAIN_CLASS_NAME" value="C05_Travel_Website.L01_Travel_WebsitePt1" />
-      <option name="METHOD_NAME" value="firstexample" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/Lenovo X270/IdeaProjects/TutorialRepeating/src/testtng.xml">
     <configuration name="L02_Travel_WebsitePt2.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Udemy_Selenium" />
       <extension name="coverage">
@@ -136,13 +150,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/Lenovo X270/IdeaProjects/TutorialRepeating/src/testtng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testtng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Lenovo X270/IdeaProjects/TutorialRepeating/src/testtng.xml" />
         <item itemvalue="JUnit.L05_JavaScriptExecuter.firstexample" />
         <item itemvalue="JUnit.L04_Browser_Tab.firstexample" />
         <item itemvalue="JUnit.L03_iFrame.firstexample" />
         <item itemvalue="JUnit.L02_Travel_WebsitePt2.firstexample" />
-        <item itemvalue="JUnit.L01_Travel_WebsitePt1.firstexample" />
       </list>
     </recent_temporary>
   </component>
