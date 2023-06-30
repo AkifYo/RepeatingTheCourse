@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f0abdf12-8442-4563-9136-a12b88f601c8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C04_Java/L04_Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C04_Java/L04_Iterator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,79 +48,89 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="C05_Travel_Website" />
       <recent name="C04_Java" />
       <recent name="C03_Section3" />
       <recent name="C02_Locating" />
       <recent name="Udemy_Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L04_Iterator">
-    <configuration name="L01_Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C04_Java.L01_Math" />
+  <component name="RunManager" selected="JUnit.L05_JavaScriptExecuter.firstexample">
+    <configuration name="L01_Travel_WebsitePt1.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Udemy_Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C04_Java.*" />
+          <option name="PATTERN" value="C05_Travel_Website.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L03_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C04_Java.L03_ForLoop" />
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C04_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L04_Iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C04_Java.L04_Iterator" />
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C04_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L16_Popup.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C03_Section3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C03_Section3" />
-      <option name="MAIN_CLASS_NAME" value="C03_Section3.L16_Popup" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="C05_Travel_Website" />
+      <option name="MAIN_CLASS_NAME" value="C05_Travel_Website.L01_Travel_WebsitePt1" />
+      <option name="METHOD_NAME" value="firstexample" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L17_HiddenElement.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="L02_Travel_WebsitePt2.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Udemy_Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C03_Section3.*" />
+          <option name="PATTERN" value="C05_Travel_Website.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="C03_Section3" />
-      <option name="MAIN_CLASS_NAME" value="C03_Section3.L17_HiddenElement" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="C05_Travel_Website" />
+      <option name="MAIN_CLASS_NAME" value="C05_Travel_Website.L02_Travel_WebsitePt2" />
+      <option name="METHOD_NAME" value="firstexample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L03_iFrame.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C05_Travel_Website.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C05_Travel_Website" />
+      <option name="MAIN_CLASS_NAME" value="C05_Travel_Website.L03_iFrame" />
+      <option name="METHOD_NAME" value="firstexample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L04_Browser_Tab.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C05_Travel_Website.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C05_Travel_Website" />
+      <option name="MAIN_CLASS_NAME" value="C05_Travel_Website.L04_Browser_Tab" />
+      <option name="METHOD_NAME" value="firstexample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L05_JavaScriptExecuter.firstexample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C05_Travel_Website.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C05_Travel_Website" />
+      <option name="MAIN_CLASS_NAME" value="C05_Travel_Website.L05_JavaScriptExecuter" />
+      <option name="METHOD_NAME" value="firstexample" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L04_Iterator" />
-        <item itemvalue="Application.L03_ForLoop" />
-        <item itemvalue="Application.L01_Math" />
-        <item itemvalue="JUnit.L17_HiddenElement.test" />
-        <item itemvalue="JUnit.L16_Popup.test" />
+        <item itemvalue="JUnit.L05_JavaScriptExecuter.firstexample" />
+        <item itemvalue="JUnit.L04_Browser_Tab.firstexample" />
+        <item itemvalue="JUnit.L03_iFrame.firstexample" />
+        <item itemvalue="JUnit.L02_Travel_WebsitePt2.firstexample" />
+        <item itemvalue="JUnit.L01_Travel_WebsitePt1.firstexample" />
       </list>
     </recent_temporary>
   </component>
