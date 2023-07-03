@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
-public class L01_Login {
+public class L02_Login {
     WebDriver driver;
 
     @BeforeSuite
